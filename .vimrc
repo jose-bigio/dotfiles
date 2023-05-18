@@ -471,7 +471,6 @@ let g:airline_mode_map = {
   \ '' : 'V-B',
   \ 's'  : 'S',
   \ 'S'  : 'S',
-  \ '' : 'S',
-  \ }
+  }
 
 set listchars=tab:›\ ,trail:•,extends:#,nbsp:.  " Highlight problematic whitespace
